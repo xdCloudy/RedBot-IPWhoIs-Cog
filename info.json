@@ -1,0 +1,11 @@
+{
+    "author": ["Cloudy1.0"],
+    "description": "A Redbot cog that queries WHOIS information for an IP and displays it in an embed.",
+    "install_msg": "Thank you for installing the WhoisCog! Use `[p]whois <IP>` to get WHOIS details for an IP address.",
+    "short": "WHOIS Lookup",
+    "tags": ["whois", "network", "IP"],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
